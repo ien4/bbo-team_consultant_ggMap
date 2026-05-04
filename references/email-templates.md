@@ -1,179 +1,182 @@
-# Email & Tin Nhắn Templates — BBOTech
+# GMap Lead Outreach Templates — BBOTech
 
-## 1. Tiếp Cận Khách Hàng Mới (Cold Outreach)
+File này dùng để soạn tin nhắn tiếp cận lead tìm được từ Google Maps / Google Business Profile. Luôn cá nhân hóa theo dữ liệu công khai, không gửi hàng loạt kiểu spam.
 
-**Email — Formal**
+## Placeholder Dùng Chung
+
+- `[Tên khách]`
+- `[Tên doanh nghiệp]`
+- `[Ngành]`
+- `[Khu vực]`
+- `[Pain point quan sát được]`
+- `[Dịch vụ đề xuất]`
+- `[Tên người gửi]`
+- `[Link demo nếu có]`
+
+## 1. Tin Nhắn Zalo Tiếp Cận Lần Đầu
+
+```text
+Chào anh/chị [Tên khách] ạ, em là [Tên người gửi] từ BBOTech.
+
+Em có xem thông tin [Tên doanh nghiệp] trên Google Maps khi tìm nhóm [Ngành] ở [Khu vực]. Em thấy bên mình có tín hiệu khách quan tâm khá tốt, và có một điểm em nghĩ có thể cải thiện thêm: [Pain point quan sát được].
+
+BBOTech đang hỗ trợ doanh nghiệp triển khai [Dịch vụ đề xuất] để chuyển khách tìm kiếm online thành lead rõ ràng hơn.
+
+Anh/chị có tiện cho em xin 10 phút trao đổi trong tuần này không ạ?
 ```
-Subject: [Tên công ty khách] — Giải pháp giúp [kết quả cụ thể] không cần tuyển thêm IT
 
-Anh/Chị [Tên] thân mến,
+## 2. Email Cold Outreach Cho Lead Từ Google Maps
 
-Tôi là [Tên], từ BBOTech — đơn vị chuyên cung cấp giải pháp công nghệ
-đóng vai trò phòng IT online cho doanh nghiệp.
+```text
+Subject: Gợi ý nhỏ cho [Tên doanh nghiệp] từ thông tin Google Maps
 
-Lý do tôi liên hệ: Chúng tôi vừa hỗ trợ [tên công ty tương tự] trong ngành [ngành]
-giảm [X]% thời gian xử lý [quy trình cụ thể] — mà không cần tuyển thêm nhân sự.
+Chào anh/chị [Tên khách],
 
-Tôi muốn hỏi: hiện tại team [tên công ty khách] đang xử lý [bài toán liên quan] như thế nào?
+Tôi là [Tên người gửi] từ BBOTech. Tôi biết đến [Tên doanh nghiệp] qua thông tin công khai trên Google Maps khi tìm nhóm [Ngành] tại [Khu vực].
 
-Nếu anh/chị có 20 phút trong tuần này, tôi muốn chia sẻ một vài ý tưởng
-có thể phù hợp với [tên công ty khách].
+Lý do tôi liên hệ là vì tôi nhận thấy [Pain point quan sát được]. Với nhóm doanh nghiệp như mình, BBOTech thường hỗ trợ bằng [Dịch vụ đề xuất] để giúp khách hàng tìm thấy thông tin rõ hơn, để lại nhu cầu dễ hơn và giảm bớt phần xử lý thủ công cho đội ngũ.
+
+Nếu phù hợp, tôi muốn xin 10-15 phút để chia sẻ một hướng triển khai ngắn cho [Tên doanh nghiệp]. Anh/chị có tiện trao đổi trong tuần này không?
 
 Trân trọng,
-[Tên] | BBOTech
+[Tên người gửi]
+BBOTech
+[Link demo nếu có]
 ```
 
-**Tin nhắn Zalo — Thân thiện**
-```
-Chào anh/chị [Tên] ạ,
+## 3. Script Gọi Điện 30 Giây
 
-Em là [Tên] từ BBOTech. Em có theo dõi [tên công ty] một thời gian
-và thấy bên mình có thể hỗ trợ anh/chị trong mảng [cụ thể].
+```text
+Chào anh/chị [Tên khách], em là [Tên người gửi] từ BBOTech.
 
-Bên em vừa giúp [ví dụ] tiết kiệm được [kết quả].
-Anh/chị có muốn em chia sẻ thêm không ạ? Chỉ 15-20 phút thôi ạ 😊
-```
+Em liên hệ vì em thấy thông tin [Tên doanh nghiệp] trên Google Maps khi tìm [Ngành] ở [Khu vực]. Em không gọi để làm phiền lâu đâu ạ.
 
----
+Em thấy có một điểm có thể cải thiện là [Pain point quan sát được]. Bên em có giải pháp [Dịch vụ đề xuất] giúp doanh nghiệp xử lý phần này gọn hơn.
 
-## 2. Follow-up Sau Buổi Gặp
-
-**Email trong 24h sau meeting**
-```
-Subject: Tóm tắt buổi gặp + Bước tiếp theo — [Tên công ty]
-
-Anh/Chị [Tên] thân mến,
-
-Cảm ơn anh/chị đã dành thời gian hôm nay. Tóm tắt nhanh những gì mình đã thảo luận:
-
-✅ Bài toán chính: [tóm tắt nhu cầu]
-✅ Giải pháp đề xuất: [tóm tắt solution]
-✅ Bước tiếp theo: [action items cụ thể]
-
-Tôi sẽ gửi proposal chi tiết trước [ngày] để anh/chị xem xét.
-
-Nếu có thắc mắc gì, anh/chị cứ nhắn trực tiếp cho tôi.
-
-Trân trọng,
-[Tên]
+Nếu anh/chị thấy phù hợp, em xin 10 phút trong tuần này để gửi một hướng đề xuất ngắn. Anh/chị tiện vào thời điểm nào ạ?
 ```
 
----
+## 4. Tin Nhắn Cho Khách Chưa Có Website
 
-## 3. Gửi Proposal / Báo Giá
+```text
+Chào anh/chị [Tên khách] ạ, em là [Tên người gửi] từ BBOTech.
 
-```
-Subject: Proposal — Giải pháp [tên solution] cho [Tên công ty]
+Em thấy [Tên doanh nghiệp] đang xuất hiện trên Google Maps ở nhóm [Ngành] tại [Khu vực], nhưng hiện em chưa thấy website chính thức của bên mình.
 
-Anh/Chị [Tên] thân mến,
+Với những khách đang tìm từ Google, website thường giúp họ xem dịch vụ, bảng giá tham khảo, hình ảnh, form tư vấn và nút liên hệ nhanh trước khi gọi.
 
-Như đã trao đổi, tôi gửi anh/chị proposal chi tiết kèm theo email này.
+BBOTech có gói [Dịch vụ đề xuất] phù hợp cho doanh nghiệp muốn có website rõ ràng, dễ cập nhật và không cần tuyển IT riêng. Anh/chị có muốn em gửi một demo ngắn cho ngành [Ngành] không ạ?
 
-Tóm tắt nhanh:
-• Giải pháp: [tên]
-• Kết quả kỳ vọng: [số liệu cụ thể]
-• Timeline triển khai: [X tuần]
-• Investment: [mức giá hoặc range]
-
-Tôi sẽ chủ động liên hệ lại vào [ngày cụ thể] để nghe phản hồi của anh/chị.
-Hoặc nếu anh/chị muốn trao đổi sớm hơn, cứ nhắn tôi bất cứ lúc nào.
-
-Trân trọng,
-[Tên]
+[Link demo nếu có]
 ```
 
----
+## 5. Tin Nhắn Cho Khách Có Website Cũ
 
-## 4. Nhắc Thanh Toán
+```text
+Chào anh/chị [Tên khách] ạ, em là [Tên người gửi] từ BBOTech.
 
-**Nhắc nhẹ (1-7 ngày trễ) — Zalo**
-```
-Anh/chị [Tên] ơi, hy vọng mọi thứ đang ổn ạ.
-Bên em có gửi invoice số [X] ngày [Y], tổng [Z].
-Không biết anh/chị đã nhận được chưa, hay có vấn đề gì
-bên em cần hỗ trợ thêm không ạ?
-```
+Em có xem Google Maps và website của [Tên doanh nghiệp]. Em thấy bên mình đã có nền tảng online, nhưng có thể đang gặp điểm này: [Pain point quan sát được].
 
-**Nhắc lần 2 (8-14 ngày) — Email**
-```
-Subject: Nhắc nhở — Invoice #[số] đến hạn thanh toán
+Nếu khách truy cập bằng điện thoại mà thông tin chưa rõ, nút liên hệ chưa nổi bật hoặc form chưa thuận tiện, mình có thể mất một phần lead từ Google Maps.
 
-Anh/Chị [Tên] thân mến,
-
-Tôi muốn liên hệ về invoice #[số] ngày [ngày] với số tiền [X],
-hiện đã quá hạn [N] ngày.
-
-Nếu đã xử lý rồi, xin bỏ qua email này. Nếu chưa, anh/chị vui lòng
-xác nhận dự kiến thanh toán vào ngày nào để bên tôi theo dõi nhé.
-
-Nếu có vấn đề gì cần trao đổi thêm, tôi luôn sẵn sàng hỗ trợ.
-
-Trân trọng,
-[Tên]
+BBOTech có thể hỗ trợ nâng cấp bằng [Dịch vụ đề xuất], tập trung vào mobile, CTA, form lead và chatbot nếu cần. Anh/chị có tiện cho em xin 10 phút để góp ý nhanh trên website hiện tại không ạ?
 ```
 
-**Nhắc lần 3 (15-30 ngày) — Email chính thức**
-```
-Subject: QUAN TRỌNG — Invoice #[số] quá hạn [N] ngày
+## 6. Tin Nhắn Cho Khách Phù Hợp Chatbot AI
 
-Anh/Chị [Tên] thân mến,
+```text
+Chào anh/chị [Tên khách] ạ, em là [Tên người gửi] từ BBOTech.
 
-Invoice #[số] hiện đã quá hạn [N] ngày với số tiền còn lại là [X].
+Em thấy [Tên doanh nghiệp] thuộc nhóm [Ngành] ở [Khu vực], thường có nhiều câu hỏi lặp lại như giá, lịch, quy trình tư vấn hoặc đặt hẹn.
 
-Tôi muốn xử lý việc này sớm để tránh ảnh hưởng đến dịch vụ
-đang cung cấp cho [tên công ty].
+Nếu đội ngũ phải trả lời thủ công nhiều trên điện thoại/Zalo/Facebook, chatbot AI có thể giúp lọc nhu cầu, trả lời câu hỏi cơ bản và chuyển lead nóng cho nhân sự.
 
-Vui lòng xác nhận:
-[ ] Đã chuyển khoản ngày ___
-[ ] Sẽ thanh toán trước ngày ___
-[ ] Cần trao đổi thêm về phương thức thanh toán
+BBOTech đang triển khai [Dịch vụ đề xuất] theo hướng dễ kiểm soát, không thay thế con người mà hỗ trợ phản hồi nhanh hơn. Anh/chị có muốn xem một demo 10 phút không ạ?
 
-Cảm ơn anh/chị,
-[Tên] | BBOTech
-Hotline: [số]
+[Link demo nếu có]
 ```
 
----
+## 7. Tin Nhắn Cho Khách Phù Hợp Automation
 
-## 5. Xin Testimonial / Case Study
+```text
+Chào anh/chị [Tên khách] ạ, em là [Tên người gửi] từ BBOTech.
 
-```
-Subject: Anh/Chị [Tên] — Mình muốn chia sẻ câu chuyện của [tên công ty]
+Em có xem thông tin [Tên doanh nghiệp] trên Google Maps và thấy bên mình đang hoạt động trong nhóm [Ngành] tại [Khu vực]. Với mô hình này, nhiều doanh nghiệp thường phải xử lý thủ công các bước như nhận yêu cầu, báo giá, đặt lịch, cập nhật file Excel hoặc nhắc nhân sự follow-up.
 
-Anh/Chị [Tên] thân mến,
+Nếu [Pain point quan sát được] đang xảy ra ở bên mình, BBOTech có thể hỗ trợ bằng [Dịch vụ đề xuất] để gom dữ liệu và tự động hóa một phần quy trình.
 
-Nhìn lại [X tháng] hợp tác, [tên công ty] đã đạt được [kết quả cụ thể] —
-mình thực sự vui vì được đồng hành trong hành trình này.
-
-Tôi muốn hỏi: anh/chị có sẵn sàng để mình chia sẻ câu chuyện này
-như một case study không? (Có thể ẩn danh nếu anh/chị muốn)
-
-Nếu OK, tôi chỉ cần 15 phút gọi ngắn để hỏi 3-4 câu,
-hoặc anh/chị có thể viết vài dòng nhận xét — tuỳ anh/chị chọn cách nào tiện hơn.
-
-Cảm ơn anh/chị rất nhiều,
-[Tên]
+Anh/chị có tiện trao đổi 10-15 phút để em hiểu quy trình hiện tại và đề xuất hướng phù hợp không ạ?
 ```
 
----
+## 8. Follow-Up Sau 3 Ngày
 
-## 6. Upsell / Đề Xuất Dịch Vụ Thêm
+```text
+Chào anh/chị [Tên khách] ạ, em là [Tên người gửi] từ BBOTech.
 
+Em nhắn lại nhẹ về ý tưởng [Dịch vụ đề xuất] cho [Tên doanh nghiệp]. Lần trước em liên hệ vì thấy [Pain point quan sát được] từ thông tin công khai trên Google Maps/website.
+
+Nếu hiện tại chưa phải ưu tiên, anh/chị cứ báo em để em không làm phiền. Còn nếu mình muốn xem nhanh hướng cải thiện, em có thể gửi một checklist ngắn cho ngành [Ngành] ạ.
 ```
-Subject: Ý tưởng cho bước tiếp theo của [tên công ty]
 
-Anh/Chị [Tên] thân mến,
+## 9. Follow-Up Sau 7 Ngày
 
-Từ kết quả [giải pháp hiện tại] đang hoạt động tốt,
-tôi có một ý tưởng muốn chia sẻ với anh/chị.
+```text
+Chào anh/chị [Tên khách] ạ,
 
-[Mô tả ngắn vấn đề tiếp theo bạn nhận thấy]
+Em gửi thêm một góc nhìn ngắn: với nhóm [Ngành] ở [Khu vực], khách thường quyết định liên hệ khi thấy đủ 3 thứ: thông tin rõ, phản hồi nhanh và cách đặt lịch/báo giá thuận tiện.
 
-Chúng tôi có thể giải quyết điều này bằng [giải pháp mới],
-và dựa trên hệ thống hiện có, việc tích hợp sẽ rất nhanh.
+Em nghĩ [Tên doanh nghiệp] có thể cải thiện điểm [Pain point quan sát được] bằng [Dịch vụ đề xuất].
 
-Anh/chị có muốn mình trình bày ý tưởng này trong 20 phút không?
+Nếu anh/chị muốn, em xin 10 phút để chỉ ra 2-3 điểm có thể tối ưu trước. Nếu chưa phù hợp, em sẽ dừng follow-up ở đây ạ.
+```
 
-Trân trọng,
-[Tên]
+## 10. Follow-Up Cuối Sau 14 Ngày
+
+```text
+Chào anh/chị [Tên khách] ạ, em là [Tên người gửi] từ BBOTech.
+
+Em xin phép follow-up lần cuối để tránh làm phiền anh/chị.
+
+Trước đó em liên hệ vì thấy [Tên doanh nghiệp] có thể phù hợp với [Dịch vụ đề xuất], đặc biệt ở điểm [Pain point quan sát được].
+
+Nếu trong tương lai anh/chị muốn cải thiện website, chatbot, automation hoặc quy trình nhận lead từ Google Maps, anh/chị có thể nhắn lại em bất cứ lúc nào.
+
+Chúc [Tên doanh nghiệp] kinh doanh thuận lợi ạ.
+```
+
+## 11. Tin Nhắn Xin Lịch Demo
+
+```text
+Chào anh/chị [Tên khách] ạ,
+
+Dựa trên thông tin của [Tên doanh nghiệp] ở nhóm [Ngành] tại [Khu vực], em nghĩ demo phù hợp nhất là [Dịch vụ đề xuất] với trọng tâm xử lý [Pain point quan sát được].
+
+Demo chỉ khoảng 15 phút, gồm:
+- Cách khách từ Google Maps đi vào website/chatbot/form
+- Cách hệ thống ghi nhận và phân loại lead
+- Cách đội ngũ follow-up gọn hơn
+
+Anh/chị tiện khung giờ nào trong tuần này để em đặt lịch ạ?
+
+[Link demo nếu có]
+```
+
+## 12. Tin Nhắn Gửi Proposal Sau Khi Khách Quan Tâm
+
+```text
+Chào anh/chị [Tên khách] ạ,
+
+Cảm ơn anh/chị đã trao đổi với em về nhu cầu của [Tên doanh nghiệp].
+
+Em tóm tắt nhanh:
+- Ngành/khu vực: [Ngành] tại [Khu vực]
+- Pain point chính: [Pain point quan sát được]
+- Giải pháp đề xuất: [Dịch vụ đề xuất]
+- Mục tiêu: giúp khách tìm từ Google Maps dễ để lại thông tin hơn và giúp đội ngũ xử lý lead gọn hơn
+
+Em gửi proposal/demo tại đây: [Link demo nếu có]
+
+Anh/chị xem giúp em. Nếu cần điều chỉnh theo ngân sách hoặc phạm vi triển khai, em sẽ tinh gọn lại cho phù hợp.
+
+[Tên người gửi]
 ```
